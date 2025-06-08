@@ -1,0 +1,532 @@
+Received: from PH0PR15MB4784.namprd15.prod.outlook.com (2603:10b6:510:9b::17)
+ by PH7PR15MB5695.namprd15.prod.outlook.com with HTTPS; Sat, 15 Feb 2025
+ 00:52:45 +0000
+Received: from SA1PR15MB4968.namprd15.prod.outlook.com (2603:10b6:806:1d7::7)
+ by PH0PR15MB4784.namprd15.prod.outlook.com (2603:10b6:510:9b::17) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8445.18; Sat, 15 Feb
+ 2025 00:52:44 +0000
+Received: from SA1PR15MB4968.namprd15.prod.outlook.com
+ ([fe80::7251:ed82:51b3:3250]) by SA1PR15MB4968.namprd15.prod.outlook.com
+ ([fe80::7251:ed82:51b3:3250%2]) with mapi id 15.20.8445.013; Sat, 15 Feb 2025
+ 00:52:44 +0000
+From: Prathibha Vuyyala <pvuyyala@buffalo.edu>
+To: Harshal Patil <hpatil2@buffalo.edu>, Prathamesh Kishor Gadgil
+	<pgadgil@buffalo.edu>, Gurwinder Kaur <gkaur36@buffalo.edu>, Yiyuan Wang
+	<yiyuanwa@buffalo.edu>, Janarthan Aathavan <janartha@buffalo.edu>, Dulanjala
+ Anuradha Jayathilake <ellawela@buffalo.edu>, Akash Sureshkumar
+	<asureshk@buffalo.edu>, Siddhartha Dheer <sdheer@buffalo.edu>, Nolan Phillips
+	<nolanphi@buffalo.edu>, Abhyudhay Shivaram Ramya <abhyudha@buffalo.edu>,
+	Anish Devnoor <anishdev@buffalo.edu>, Srujan Avirneni <srujanav@buffalo.edu>,
+	Saket Medhalavalasa <saketmed@buffalo.edu>, Vivek Viswam Rajabhavan
+ Viswanathan <vrajabha@buffalo.edu>, Sheethal Urs Puttabasavaraje Urs
+	<sheethal@buffalo.edu>, Vaibhav Vinay Ranashoor <vranasho@buffalo.edu>, ".
+ Mahmood Ali Khan" <mahmood7@buffalo.edu>, Nivedhithaa Karunanidhi
+	<nkarunan@buffalo.edu>
+Subject: CSE 460/560 | DMQL | Project Expectations
+Thread-Topic: CSE 460/560 | DMQL | Project Expectations
+Thread-Index: Adt/QzmIsnjJTZ0UQdmgyMbG9IZM4w==
+Date: Sat, 15 Feb 2025 00:52:44 +0000
+Message-ID:
+	<SA1PR15MB49683194C5262367D475AFE2CAF92@SA1PR15MB4968.namprd15.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: SA1PR15MB4968.namprd15.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	71a12989-b3cc-4928-ded0-08dd4d5b0f0a
+X-MS-Exchange-Organization-SCL: 1
+X-Message-Flag: Flag for follow up
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(425001)(930097)(140003)(1420198);
+X-Microsoft-Antispam-Message-Info:
+	m1M3Rbc6hy6wMuhUFYwFt6eH7VPhX8LdtJEpO33VZWbcwgqu+b9oGzHR6Hs4DsSq8gREJzax07gQaT/M16OkMv3aMiwrQiSWSCj0LytlXgpNSlYKvU395OooqxmOjAaf8RIL4DPJSBiVhBRbcaHSeAhOrkCSvcS2Mj3l1NXDnZYSdXt9FDs0gIF7/Nwx81wyFi+vdfF7O/YmCvmqK6NLEG2R28kUfAlY1xDLJu01KmlVu9mgjNbnvn7GinNr34AkzV/LTE1wjPX363jPi1IaYRSE5A422TY2qkhiIKVdxmFVxEl6KNvGwAK7ssjL/yOQ/BuAp53Z7WHG3S1iQl+Gbf+aWauihd1MjRYiibhSosi7Cl87iJt2OWOKkQStHLyx3cs5ybsXUUzjRuRCcgbKsCoMjJUkS+7DkC12/Eyus7VBZwZRBNfFkUpiTm4FOuVJqCZeEo6vh3s4K0Gjgyhltz4qw8K79WJtBYCEwLUGDUbCN9IoTt6yK6aVk3tc+gatRmuNjm65V4z5EcnvdYxKudsbVWfA0o4JD3S2hL1kvuwQVx1HuQwz4+RbJhmFHmfYqMtKwL1+3L24D0uEFYmt0K+BlUpPnrw0ym+uKW5Od1miggfDpgMlnsckNF7ET8pwKt8xlge0//Rrmd7IIsifalx4TLzAZ9JjvkEENJjXAPimggjEjRKjUXwF9XDnUcTG7JWPSEQMboFPLoRSB7vhrd3rECqCuGPiMuwHmXb2GwQ2WSjyfH55NO8+s8WDtuSx4i+J9bkd1+SGX0ZQqHBWVLYUD3PQNZ+a/YVo0VOPpaiyu73mHMdTh5dhizauEOUB
+Content-Type: multipart/alternative;
+	boundary="_000_SA1PR15MB49683194C5262367D475AFE2CAF92SA1PR15MB4968namp_"
+MIME-Version: 1.0
+
+--_000_SA1PR15MB49683194C5262367D475AFE2CAF92SA1PR15MB4968namp_
+Content-Type: text/plain; charset="us-ascii"
+
+Hi All,
+
+I've been assigned as your TA for the group project. Each team is expected to share weekly updates on the project, either during the office hours or through email. I hope you have started working on the first milestone. Do reach out to me if you have any further questions regarding the project.
+
+I want to outline the basic expectations for each milestone to ensure we stay on track and achieve our goals effectively.
+
+Milestone 1 Expectations (Due Date: 03/06/2025)
+
+
+  1.  Project Proposal: Prepare a detailed report (5-8 pages) that includes:
+     *   Project details: Name, team members, and UB IDs.
+     *   Problem Statement: Clearly describe the problem your database will solve and why a database is preferable to an Excel file.
+     *   Target User: Identify who will use and administer the database, providing a real-life scenario.
+     *   E/R Diagram: Create and describe the relationships between different tables.
+     *   Task Completion: Ensure tasks 1-5 from the project description are completed, including a list of relations and their attributes, primary and foreign keys, and detailed descriptions of each attribute.
+
+
+  1.  Submission: Save your report as Milestone1.pdf and upload it to UBLearn. Only the team leader (Member 1) needs to submit the file.
+
+Milestone 2 Expectations (Due Date: 04/25/2025)
+
+
+  1.  Final Submission: Your complete report should include:
+     *   Details of all tasks performed, highlighting any new assumptions, E/R diagram, and any changes to the list of tables.
+     *   A create.sql file to create all tables in your database and a load.sql file for bulk loading data.
+     *   A readme.txt file that states your data source and describes how you built tables and imported data.
+
+
+  1.  Demo Video: Prepare a demo video showcasing your system's functionality.
+
+
+  1.  Submission: Save your final report as Milestone2.pdf and upload it to UBLearn. Only the team leader (Member 1) needs to submit the file.
+
+
+
+Final Project Demo Expectations (Due Date: 12/05/2024)
+
+
+  1.  Presentation: You will need to present your system's working demo. Instructions for signing up for the demo will be provided later.
+
+
+  1.  Feedback: Stay in touch with me for feedback on your project and suggestions for improvement.
+
+
+
+General Expectations
+
+
+  *   Collaboration: Ensure that all team members contribute equally to the project.
+  *   Communication: Keep an open line of communication within the team and with me for any questions or concerns.
+  *   Timeliness: Adhere to the deadlines for each milestone to avoid last-minute stress.
+
+As you work on your database project, please keep in mind the following guidelines regarding the datasets you will be using:
+
+
+  1.  Dataset Size: The datasets you choose should ideally contain between 5,000 to 10,000 rows. This size is considered substantial enough to allow for meaningful analysis and exploration of database concepts.
+
+
+  1.  Column Count: Your datasets should have more than 9 columns. This will enable you to create a more complex schema and facilitate the demonstration of various database functionalities.
+
+
+
+
+  1.  Problem Statement: It is crucial that you establish your problem statement clearly. This should guide you in structuring your dataset in a way that allows for the division into multiple related tables. The relationships between these tables will enable you to utilize joins and other SQL concepts discussed in class effectively.
+
+
+  1.  Normalization: As you design your tables, ensure that they are normalized appropriately to avoid redundancy and maintain data integrity. This will also help in demonstrating your understanding of database design principles.
+
+
+
+By adhering to these guidelines, you will be better equipped to create a robust database that showcases your skills and understanding of the material covered in class.
+
+I would count additional marks if concepts discussed in the class like triggers, stored procedures, etc. are implemented and used. Please take this as an opportunity to make it as worthy as a portfolio project.
+
+I am here to support you throughout this project, so please do not hesitate to reach out if you need assistance or clarification on any aspect.
+
+
+
+Best regards,
+Prathibha Vuyyala
+Master's Student in Engineering Science - Data Science
+Person no: 50559983
+Mail id: pvuyyala@buffalo.edu<mailto:pvuyyala@buffalo.edu>
+Contact no: +1 (716)-907-1347
+University at Buffalo
+
+
+
+--_000_SA1PR15MB49683194C5262367D475AFE2CAF92SA1PR15MB4968namp_
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ligatures:standardcontextual;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ligatures:standardcontextual;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:11.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:750466390;
+	mso-list-template-ids:-876692340;}
+@list l0:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:918248766;
+	mso-list-template-ids:-1031476002;}
+@list l1:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2
+	{mso-list-id:1622031336;
+	mso-list-template-ids:-849696410;}
+@list l2:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3
+	{mso-list-id:1641305199;
+	mso-list-template-ids:-928870150;}
+@list l3:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4
+	{mso-list-id:2012760380;
+	mso-list-template-ids:-1524070688;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="#467886" vlink="#96607D" style="word-wrap:break-word">
+<div class="WordSection1">
+<p class="MsoNormal">Hi All,<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">I've been assigned as your TA for the group project. Each team is expected to share weekly updates on the project, either during the office hours or through email. I hope you have started working on the first milestone. Do reach out to
+ me if you have any further questions regarding the project.<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">I want to outline the basic expectations for each milestone to ensure we stay on track and achieve our goals effectively.<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><b><span style="font-size:14.0pt">Milestone 1 Expectations (Due Date: 03/06/2025)<o:p></o:p></span></b></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<ol style="margin-top:0in" start="1" type="1">
+<li class="MsoNormal" style="mso-list:l0 level1 lfo1"><b>Project Proposal</b>: Prepare a detailed report (5-8 pages) that includes:<o:p></o:p></li><ul style="margin-top:0in" type="circle">
+<li class="MsoNormal" style="mso-list:l0 level2 lfo1">Project details: Name, team members, and UB IDs.<o:p></o:p></li><li class="MsoNormal" style="mso-list:l0 level2 lfo1">Problem Statement: Clearly describe the problem your database will solve and why a database is preferable to an Excel file.<o:p></o:p></li><li class="MsoNormal" style="mso-list:l0 level2 lfo1">Target User: Identify who will use and administer the database, providing a real-life scenario.<o:p></o:p></li><li class="MsoNormal" style="mso-list:l0 level2 lfo1">E/R Diagram: Create and describe the relationships between different tables.<o:p></o:p></li><li class="MsoNormal" style="mso-list:l0 level2 lfo1">Task Completion: Ensure tasks 1-5 from the project description are completed, including a list of relations and their attributes, primary and foreign keys, and detailed descriptions of each attribute.<o:p></o:p></li></ul>
+</ol>
+<p class="MsoNormal" style="margin-left:1.0in"><o:p>&nbsp;</o:p></p>
+<ol style="margin-top:0in" start="2" type="1">
+<li class="MsoNormal" style="mso-list:l0 level1 lfo1"><b>Submission</b>: Save your report as Milestone1.pdf and upload it to UBLearn. Only the team leader (Member 1) needs to submit the file.<o:p></o:p></li></ol>
+<p class="MsoNormal" style="margin-left:.5in"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><b><span style="font-size:14.0pt">Milestone 2 Expectations (Due Date: 04/25/2025)<o:p></o:p></span></b></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<ol style="margin-top:0in" start="1" type="1">
+<li class="MsoNormal" style="mso-list:l1 level1 lfo2"><b>Final Submission</b>: Your complete report should include:<o:p></o:p></li><ul style="margin-top:0in" type="circle">
+<li class="MsoNormal" style="mso-list:l1 level2 lfo2">Details of all tasks performed, highlighting any new assumptions, E/R diagram, and any changes to the list of tables.<o:p></o:p></li><li class="MsoNormal" style="mso-list:l1 level2 lfo2">A&nbsp;create.sql&nbsp;file to create all tables in your database and a&nbsp;load.sql&nbsp;file for bulk loading data.<o:p></o:p></li><li class="MsoNormal" style="mso-list:l1 level2 lfo2">A&nbsp;readme.txt&nbsp;file that states your data source and describes how you built tables and imported data.<o:p></o:p></li></ul>
+</ol>
+<p class="MsoNormal" style="margin-left:1.0in"><o:p>&nbsp;</o:p></p>
+<ol style="margin-top:0in" start="2" type="1">
+<li class="MsoNormal" style="mso-list:l1 level1 lfo2"><b>Demo Video</b>: Prepare a demo video showcasing your system's functionality.<o:p></o:p></li></ol>
+<p class="MsoNormal" style="margin-left:.5in"><o:p>&nbsp;</o:p></p>
+<ol style="margin-top:0in" start="3" type="1">
+<li class="MsoNormal" style="mso-list:l1 level1 lfo2"><b>Submission</b>: Save your final report as Milestone2.pdf and upload it to UBLearn. Only the team leader (Member 1) needs to submit the file.<o:p></o:p></li></ol>
+<p class="MsoListParagraph"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="margin-left:.5in"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><b><span style="font-size:14.0pt">Final Project Demo Expectations (Due Date: 12/05/2024)<o:p></o:p></span></b></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<ol style="margin-top:0in" start="1" type="1">
+<li class="MsoNormal" style="mso-list:l2 level1 lfo3"><b>Presentation</b>: You will need to present your system&#8217;s working demo. Instructions for signing up for the demo will be provided later.<o:p></o:p></li></ol>
+<p class="MsoNormal" style="margin-left:.5in"><o:p>&nbsp;</o:p></p>
+<ol style="margin-top:0in" start="2" type="1">
+<li class="MsoNormal" style="mso-list:l2 level1 lfo3"><b>Feedback</b>: Stay in touch with me for feedback on your project and suggestions for improvement.<o:p></o:p></li></ol>
+<p class="MsoListParagraph"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="margin-left:.5in"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><b><span style="font-size:14.0pt">General Expectations<o:p></o:p></span></b></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<ul style="margin-top:0in" type="disc">
+<li class="MsoNormal" style="mso-list:l4 level1 lfo4"><b>Collaboration</b>: Ensure that all team members contribute equally to the project.<o:p></o:p></li><li class="MsoNormal" style="mso-list:l4 level1 lfo4"><b>Communication</b>: Keep an open line of communication within the team and with me for any questions or concerns.<o:p></o:p></li><li class="MsoNormal" style="mso-list:l4 level1 lfo4"><b>Timeliness</b>: Adhere to the deadlines for each milestone to avoid last-minute stress.<o:p></o:p></li></ul>
+<p class="MsoNormal" style="margin-left:.5in"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">As you work on your database project, please keep in mind the following guidelines regarding the datasets you will be using:<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<ol style="margin-top:0in" start="1" type="1">
+<li class="MsoNormal" style="mso-list:l3 level1 lfo5"><b>Dataset Size</b>: The datasets you choose should ideally contain between 5,000 to 10,000 rows. This size is considered substantial enough to allow for meaningful analysis and exploration of database concepts.<o:p></o:p></li></ol>
+<p class="MsoNormal" style="margin-left:.5in"><o:p>&nbsp;</o:p></p>
+<ol style="margin-top:0in" start="2" type="1">
+<li class="MsoNormal" style="mso-list:l3 level1 lfo5"><b>Column Count</b>: Your datasets should have more than 9 columns. This will enable you to create a more complex schema and facilitate the demonstration of various database functionalities.<o:p></o:p></li></ol>
+<p class="MsoListParagraph"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="margin-left:.5in"><o:p>&nbsp;</o:p></p>
+<ol style="margin-top:0in" start="3" type="1">
+<li class="MsoNormal" style="mso-list:l3 level1 lfo5"><b>Problem Statement</b>: It is crucial that you establish your problem statement clearly. This should guide you in structuring your dataset in a way that allows for the division into multiple related tables.
+ The relationships between these tables will enable you to utilize joins and other SQL concepts discussed in class effectively.<o:p></o:p></li></ol>
+<p class="MsoNormal" style="margin-left:.5in"><o:p>&nbsp;</o:p></p>
+<ol style="margin-top:0in" start="4" type="1">
+<li class="MsoNormal" style="mso-list:l3 level1 lfo5"><b>Normalization</b>: As you design your tables, ensure that they are normalized appropriately to avoid redundancy and maintain data integrity. This will also help in demonstrating your understanding of
+ database design principles.<o:p></o:p></li></ol>
+<p class="MsoListParagraph"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="margin-left:.5in"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">By adhering to these guidelines, you will be better equipped to create a robust database that showcases your skills and understanding of the material covered in class.<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">I would count additional marks if concepts discussed in the class like triggers, stored procedures, etc. are implemented and used. Please take this as an opportunity to make it as worthy as a portfolio project.<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">I am here to support you throughout this project, so please do not hesitate to reach out if you need assistance or clarification on any aspect.<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif">Best regards,<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif">Prathibha Vuyyala<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif">Master's Student in Engineering Science &#8211; Data Science<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif">Person no: 50559983<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif">Mail id:
+<a href="mailto:pvuyyala@buffalo.edu"><span style="color:#467886">pvuyyala@buffalo.edu</span></a><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif">Contact no: +1 (716)-907-1347<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif">University at Buffalo<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_SA1PR15MB49683194C5262367D475AFE2CAF92SA1PR15MB4968namp_--
