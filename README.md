@@ -1,6 +1,6 @@
 # Job Portal Database System
 
-A database-backed job portal built for DMQL coursework. This repository contains the ER model, schema DDL, synthetic data generation and loading scripts, example queries, and a simple application entry point to interact with the database.
+A database-backed job portal built for DMQL coursework. This repository contains the ER model, schema DDL, scripts for generating and loading synthetic data, example queries, and a simple application entry point for interacting with the database.
 
 **Highlights**
 - **Schema-first design:** ER diagram with normalized tables.
