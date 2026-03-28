@@ -6,7 +6,7 @@ A database-backed job portal built for DMQL coursework. This repository contains
 - **Schema-first design:** ER diagram with normalized tables.
 - **Reproducible setup:** SQL DDL to create schema, Python scripts to generate and load fake data.
 - **Query library:** Test queries and solutions for problematic cases.
-- **Light app layer:** `app.py` for quick interaction or demo.
+- **App layer:** `app.py` for quick interaction or demo.
 
 **Folder Guide**
 - `ER Diagram/`: Visuals of the database entity-relationship model.
